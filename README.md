@@ -17,7 +17,7 @@
   <img src="./src/images/menupage.png" alt="menu" width="800" style="margin-right: 20px"/>
 </div>
 
-*Mobile View
+* Mobile View
 <div align="center">
-  <img src="./src/images/mobileview.png" alt="mobileview" width="800" style="margin-right: 20px"/>
+  <img src="./src/images/mobileview.png" alt="mobileview" width="400" style="margin-right: 20px"/>
 </div>
