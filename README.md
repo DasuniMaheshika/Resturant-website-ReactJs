@@ -19,5 +19,5 @@
 
 * Mobile View
 <div align="center">
-  <img src="./src/images/mobileview.png" alt="mobileview" width="400" style="margin-right: 20px"/>
+  <img src="./src/images/mobileview.png" alt="mobileview" width="350" style="margin-right: 20px"/>
 </div>
